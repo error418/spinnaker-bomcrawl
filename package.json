@@ -1,0 +1,22 @@
+{
+  "name": "spinnaker-bomcrawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sbc": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "simple-git": "^1.107.0",
+    "tar-fs": "^2.0.0",
+    "targz": "^1.0.1",
+    "wrench": "^1.5.9",
+    "yaml": "^1.3.2"
+  }
+}
