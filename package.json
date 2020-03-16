@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "simple-git": "^1.107.0",
     "tar-fs": "^2.0.0",
     "targz": "^1.0.1",
