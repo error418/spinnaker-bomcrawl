@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "minimist": "^1.2.3",
-    "simple-git": "^1.107.0",
+    "simple-git": "^3.3.0",
     "tar-fs": "^2.0.0",
     "targz": "^1.0.1",
     "wrench": "^1.5.9",
